@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ferdian
-- 👀 I’m interested in front-end
+- 👀 I’m interested in front-end and design stuff
 - 🌱 I’m currently learning css and html
 
 <!---
