@@ -1,6 +1,7 @@
 - 👋 Hi, I’m ferdian
 - 👀 I’m interested in front-end and design stuff
-- 🌱 I’m currently learning css and html
+- 🌱 I’m currently learning js
+
 
 <!---
 zantrfrd/zantrfrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
